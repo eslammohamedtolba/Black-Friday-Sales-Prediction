@@ -12,6 +12,7 @@ Before running the code, make sure you have the following libraries installed:
 
 ## Overview of the Code
 The code is structured as follows:
+
 1-Loading the Dataset: The code loads the Black Friday sales dataset from a CSV file and provides basic information about the dataset, such as its shape, the first and last samples, and statistical summaries.
 
 2-Exploratory Data Analysis (EDA): The code conducts EDA, including:
